@@ -80,13 +80,15 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Manoel24074&show_icons=true&count_private=true&hide_border=true&title_color=2E86DE&icon_color=2E86DE&theme=tokyonight" alt="GitHub stats"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoel24074&layout=compact&hide_border=true&title_color=2E86DE&theme=tokyonight" alt="Top languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Manoel24074&show_icons=true&count_private=true&hide_border=true&cache_seconds=1800&title_color=2E86DE&icon_color=2E86DE&theme=tokyonight" alt="GitHub stats"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoel24074&layout=compact&hide_border=true&cache_seconds=1800&title_color=2E86DE&theme=tokyonight" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manoel24074&hide_border=true&stroke=2E86DE&ring=2E86DE&fire=2E86DE&currStreakLabel=2E86DE&background=1A1B27&sideLabels=C9D1D9&dates=8B949E" alt="Streak stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Manoel24074&hide_border=true&stroke=2E86DE&ring=2E86DE&fire=2E86DE&currStreakLabel=2E86DE&background=1A1B27&sideLabels=C9D1D9&dates=8B949E" alt="Streak stats"/>
 </p>
 
 <p align="center">
