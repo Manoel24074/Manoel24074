@@ -80,8 +80,6 @@
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Manoel24074&show_icons=true&count_private=true&hide_border=true&cache_seconds=1800&title_color=2E86DE&icon_color=2E86DE&theme=tokyonight" alt="GitHub stats"/>
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoel24074&layout=compact&hide_border=true&cache_seconds=1800&title_color=2E86DE&theme=tokyonight" alt="Top languages"/>
